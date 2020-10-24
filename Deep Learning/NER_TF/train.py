@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2020/9/24 下午10:55
+# @Author  : wangt
+# @Email   : wt0504@zju.edu.cn
+# @File    : train.py
+
 from utils import *
 from model import *
 
